@@ -66,3 +66,4 @@ document.querySelector(".check").addEventListener("click", function () {
 
 
 document.querySelector(".highscore").textContent = highScore;
+
